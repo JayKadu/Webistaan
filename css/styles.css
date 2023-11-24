@@ -1,0 +1,69 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important;
+    font-size: 24px !important;
+    background-image: url(../images/glowing-spaceship-orbits-planet-starry-galaxy-generated-by-ai_188544-9655.avif);
+    background-size:cover;
+    color: white !important;
+    overflow-y: scroll;
+overflow-x: hidden;
+    margin-top: 30PX !important;
+    
+}
+.foot1_1{
+    background-color: rgb(124, 113, 225);
+    padding-left: 530px;
+    padding-top: .5px;
+    padding-bottom: .5px;
+}
+
+.foot1{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.foot2_2{
+    padding-left: 550px;
+}
+
+.foot2{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.foot1_1_1{
+    color: white;
+}
+
+li{
+    display: inline;
+    
+}
+a{
+    text-decoration: none !important;
+    
+}
+
+.mainBlock{
+    padding-top: 20px;
+    padding-left: 80px;
+    padding-right: 180px;
+    position: absolute;
+
+}
+img{
+    height: 300px;
+    width: 250px;
+}
+
+.News{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.nav1{
+    color: black;
+}
+
+.menubar{
+    background-color: rgb(152, 150, 150) !important;
+}
+
